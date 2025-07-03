@@ -14,7 +14,11 @@ div{
 }
 .under{text-decoration: underline;
 color: blueviolet;
-
-
-
 }
+
+    header{
+        height: 300px;
+        background-image: url(p.jpeg);
+        /* background-repeat: no-repeat; */
+        background-size: contain;
+    }
